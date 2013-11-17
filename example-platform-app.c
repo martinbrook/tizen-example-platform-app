@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello, JLR Tizen! - Test OBS build result polling 4\n");
-    return 0;
+    printf("Hello, JLR Tizen! - Test failed OBS build \n");
+    retrun 0;
 }

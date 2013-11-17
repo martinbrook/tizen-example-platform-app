@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello, Tizen! - Add gbs export to obsupdate script 1\n");
+    printf("Hello, Tizen! - Test getbinaries \n");
     return 0;
 }

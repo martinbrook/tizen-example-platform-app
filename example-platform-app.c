@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello, Tizen!\n");
+    printf("Hello, JLR Tizen!\n");
     return 0;
 }

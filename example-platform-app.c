@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello, Tizen! - Test getbinaries \n");
+    printf("Hello, Tizen! - Test rename logs \n");
     return 0;
 }

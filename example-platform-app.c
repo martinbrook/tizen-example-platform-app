@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello, Tizen! - Test scp push 1 \n");
+    printf("Hello, Tizen! - test on monday \n");
     return 0;
 }
